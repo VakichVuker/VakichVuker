@@ -6,7 +6,7 @@ I am a junior Django developer from St. Petersburg.
 
 ## My codewar stat:
 
-[![codewars](https://www.codewars.com/users/Vuker/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/Vuker/badges/large)](https://www.codewars.com/users/Vuker)
 
 ## Streak status
 
